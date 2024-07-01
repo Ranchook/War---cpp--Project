@@ -13,7 +13,7 @@ In this assignment we were given a partial realization of the game but all of th
 We were supposed to understand alone what to complete and how to complete it.
 
 The assignments are:
-1. Seah and complete "friend" classes that were erased.
+1. Search and complete "friend" classes that were erased.
 2. Identify and complete the missing operators:
     a. operator #1 - adding a card to the hand of the player that runs the operator.
                     use example: *(players.players[playerIdx]) += (Cards[cardIdx++]);
