@@ -15,6 +15,7 @@ We were supposed to understand alone what to complete and how to complete it.
 The assignments are:
 1. Search and complete "friend" classes that were erased.
 2. Identify and complete the missing operators:
+
     a. operator #1 - adding a card to the hand of the player that runs the operator.
                     use example: *(players.players[playerIdx]) += (Cards[cardIdx++]);
    
@@ -26,8 +27,10 @@ The assignments are:
                     
     c. operator #3 - check if the card running the operator is greater than the other card.
                     use example:  if(*tmp > *max)
+
     d. operator #4 - check if the card running the operator is equal to the other card.
                     use example:  if(*tmp == *max)
-    e. operator #5 - add all the cards from the trash pile of a certain player to the hand of another player using operator #1. make sure it's a different player.
+
+   e. operator #5 - add all the cards from the trash pile of a certain player to the hand of another player using operator #1. make sure it's a different player.
                     use example:  *winner + *(players.players[playerIdx]);
     
